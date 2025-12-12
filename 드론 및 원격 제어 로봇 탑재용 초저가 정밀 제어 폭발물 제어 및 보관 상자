@@ -1,3 +1,13 @@
+1. Market research
+
+I considered how we could earn positive evaluations and generate profit if we started selling with the products currently available.
+Arduino components have many advantages, but they also come with just as many drawbacks.
+Compared to the strong advantages of compatibility and low cost, the Arduino UNO does not have the level of stability required for actual commercial use.
+So I spent a long time thinking about how we could compensate for this drawback.
+It wasn’t a perfect answer, but I was able to get an idea from a war happening in a nearby country.
+The prolonging of a war is directly connected to the amount of available supplies. In the early stages, powerful missiles may be used, but as the war drags on, there is a need for any means possible to attack the opponent. At that stage, when creating a weapon or attack method, there may be a shortage of the components needed to make it.
+
+
 /*
  * Smart Chemical Box - Complete Integration
  * Hardware: Arduino Uno, RC522, I2C LCD, DHT11, Water Sensor, Servo, DS1302, Bluetooth
