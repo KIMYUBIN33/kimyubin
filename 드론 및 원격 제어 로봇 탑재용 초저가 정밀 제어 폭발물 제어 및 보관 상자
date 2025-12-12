@@ -6,6 +6,10 @@ Compared to the strong advantages of compatibility and low cost, the Arduino UNO
 So I spent a long time thinking about how we could compensate for this drawback.
 It wasn’t a perfect answer, but I was able to get an idea from a war happening in a nearby country.
 The prolonging of a war is directly connected to the amount of available supplies. In the early stages, powerful missiles may be used, but as the war drags on, there is a need for any means possible to attack the opponent. At that stage, when creating a weapon or attack method, there may be a shortage of the components needed to make it.
+At that point, the existence of Arduino would appear highly appealing.
+Leaving several questions open here, I will conclude the introduction and move on to a more professional explanation to establish the validity of my product. It’s just an idea from a student, but I hope you find it interesting.
+
+
 
 
 /*
